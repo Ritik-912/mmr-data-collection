@@ -1,0 +1,12 @@
+[submodule "questions"]
+	path = questions
+	url = https://github.com/Ritik-912/mmr-data-collection-questions
+[submodule "textbook"]
+	path = textbook
+	url = https://github.com/Ritik-912/mmr-data-collection-textbook
+[submodule "charts"]
+	path = charts
+	url = https://github.com/Ritik-912/mmr-data-collection-charts
+[submodule "graphs"]
+	path = graphs
+	url = https://github.com/Ritik-912/mmr-data-collection-graphs
